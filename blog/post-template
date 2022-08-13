@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--Google Fonts code-->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&family=Nunito+Sans&family=Ubuntu&display=swap" rel="stylesheet">
+		<!--Apply the downloaded fonts-->
+		<style>
+			p {
+				font-size: 100%;
+				font-family: "Ubuntu";
+			}
+			h1 {
+				font-size: 100%;
+				font-family: "Nunito Sans";
+			}
+			a {
+				font-size: 100%;
+				font-family: "Nanum Gothic Coding";
+			}
+		</style>
+		<!-- Favicon and title -->
+		<link rel="icon" type="image/png" href="favicon-blog.png">
+    	<!--Change "post_name" to the post's name. If non-text content is included, then change ".txt" to ".rtf".-->
+		<title>tredI9100/Blog/post_name.txt</title>
+	</head>
+	<!--The website itself!-->
+	<a href=https://tredI9100.github.io/blog>Back to blog main page</a>
+	<!--Change "post_name" to the post's name. If non-text content is included, then change ".txt" to ".rtf".-->
+	<h1>post_name.txt</h1>
+	<!--Change "Text goes here ghghgh(etc)" to the blog post text.-->
+	<p>Text goes here ghghghghhghghghghgghhghhgh</p>
+</html>
